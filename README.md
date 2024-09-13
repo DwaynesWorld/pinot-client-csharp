@@ -1,0 +1,1 @@
+Package provides a C# client for Pinot, a real-time distributed OLAP datastore.
